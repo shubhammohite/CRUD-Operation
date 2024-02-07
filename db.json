@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "firstName": "Shubham",
+      "lastName": "Mohite",
+      "email": "shubham@gmail.com",
+      "dob": "1999-05-03T12:09:39Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "TCS",
+      "experience": 3,
+      "package": 3,
+      "id": "lm2"
+    },
+    {
+      "firstName": "akshay",
+      "lastName": "Nalawade",
+      "email": "akshay@gmail.com",
+      "dob": "1997-05-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Zelite",
+      "experience": 5,
+      "package": 20,
+      "id": "da02"
+    },
+    {
+      "id": "0190",
+      "firstName": "akshay",
+      "lastName": "konde",
+      "email": "kondeak@gmail.com",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Wipro"
+    },
+    {
+      "id": "fbdc",
+      "firstName": "prem",
+      "lastName": "kadam",
+      "email": "premk@gmail.com",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Infosys"
+    },
+    {
+      "id": "016b",
+      "firstName": "pavan",
+      "lastName": "more",
+      "email": "pmore7895@gmail.com",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Bajaj"
+    },
+    {
+      "id": "fb69",
+      "firstName": "pranesh",
+      "lastName": "shete",
+      "email": "pranesh78@gmail.com",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "TCS"
+    },
+    {
+      "id": "b250",
+      "firstName": "Abhay",
+      "lastName": "vijapure",
+      "email": "abhivijapure@gmail.com",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Tria Technology"
+    }
+  ]
+}
